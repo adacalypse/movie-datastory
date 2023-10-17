@@ -2,7 +2,7 @@
 __pycache__/
 
 # Project data
-data/
+Homework_1/data/
 
 # Mac files
 .DS_Store
